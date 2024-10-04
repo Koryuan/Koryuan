@@ -12,11 +12,11 @@ I am passionate about learning more about technology not only for game developme
 <details>
   <summary>Riding Simulator</summary>
   <table>
-    <td valign="center", halign="center"><p>A simulation project for Riding a bike</p>
+    <td valign="center", halign="center"><p>A simulation project for Riding a bike in VR and PC</p>
     <td valign="top">
-      <div>
-        <img width="50%" src=""><br>
-        <a href="">More Info</a>
+      <div style="text-align: center">
+        <img src="https://github.com/Koryuan/Koryuan/blob/main/Riding%20Simulation.webp">
+        <a href="">  More Info </a>
       </div>
   </table>
 </details>

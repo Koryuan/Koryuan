@@ -16,7 +16,7 @@ I am passionate about learning more about technology not only for game developme
     <td align="center">
       <div>
         <img src="https://github.com/Koryuan/Koryuan/blob/main/Images/Riding%20Simulation.webp">
-        <a href="">  More Info </a>
+        <a href="https://github.com/Koryuan/">  More Info </a>
       </div>
   </table>
 </details>

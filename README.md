@@ -12,4 +12,4 @@ I am passionate about learning more about technology not only for game developme
 
 - I’m currently have work experience in C# and Unity Engine
 - I'm currently learning about Rust, NestJS, Godot, and ASP.NET
-
+- You can reach me by E-Mail: andre.saputra.works@gmail.com

@@ -11,6 +11,14 @@ I am passionate about learning more about technology not only for game developme
 ### Project
 <details>
   <summary>Riding Simulator</summary>
+  <table>
+    <td valign="center", halign="center"><p>Hello</p>
+    <td valign="top">
+      <div>
+        <img width="50%" src=""><br>
+        <a href="">More Info</a>
+      </div>
+  </table>
 </details>
 
 <details>

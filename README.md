@@ -15,7 +15,7 @@ I am passionate about learning more about technology not only for game developme
     <td valign="center", halign="center"><p>A simulation project for Riding a bike in VR and PC</p>
     <td align="center">
       <div>
-        <img src="https://github.com/Koryuan/Koryuan/blob/main/Riding%20Simulation.webp">
+        <img src="https://github.com/Koryuan/Koryuan/blob/main/Images/Riding%20Simulation.webp">
         <a href="">  More Info </a>
       </div>
   </table>
@@ -23,10 +23,26 @@ I am passionate about learning more about technology not only for game developme
 
 <details>
   <summary>Code Dungeon</summary>
+  <table>
+    <td valign="center", halign="center"><p>A 2D RPG create for Thesis. This project is created to teach people about the basic of programming</p>
+    <td align="center">
+      <div>
+        <img src="https://github.com/Koryuan/Koryuan/blob/main/Images/Code%20Dungeon.webp">
+        <a href="https://codedungeon.itch.io/code-dungeon">  More Info </a>
+      </div>
+  </table>
 </details>
 
 <details>
   <summary>Conjure in the Dark</summary>
+  <table>
+    <td valign="center", halign="center"><p>A game created for Pirate Software 15th Game jame</p>
+    <td align="center">
+      <div>
+        <img src="https://github.com/Koryuan/Koryuan/blob/main/Images/Conjure%20in%20the%20Dark.webp">
+        <a href="https://koryuan.itch.io/conjure-in-the-dark">  More Info </a>
+      </div>
+  </table>
 </details>
 
 ### Talking about Personal Stuff:

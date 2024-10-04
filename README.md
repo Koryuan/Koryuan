@@ -8,6 +8,19 @@ I'm Andre, also known as Koryuan. I specialize in building application or game i
 
 I am passionate about learning more about technology not only for game development but also backend and frontend. My professional work often involves creating simulation for real industry clients.
 
+### Project
+<details>
+  <summary>Riding Simulator</summary>
+</details>
+
+<details>
+  <summary>Code Dungeon</summary>
+</details>
+
+<details>
+  <summary>Conjure in the Dark</summary>
+</details>
+
 ### Talking about Personal Stuff:
 
 - I’m currently have work experience in C# and Unity Engine

@@ -12,7 +12,7 @@ I am passionate about learning more about technology not only for game developme
 <details>
   <summary>Riding Simulator</summary>
   <table>
-    <td valign="center", halign="center"><p>Hello</p>
+    <td valign="center", halign="center"><p>A simulation project for Riding a bike</p>
     <td valign="top">
       <div>
         <img width="50%" src=""><br>
